@@ -25,6 +25,9 @@ To run the algorithm, follow these steps:
 5. Run the Main.m script.
 6. Review the results obtained.
 
+# Competition
+The HHASARL algorithm has been tested and evaluated in the CEC-12 Competition on Electric Vehicle Routing Problem. You can find more information about the competition [here](https://mavrovouniotis.github.io/EVRPcompetition2020/).
+
 # Citation
 If you use this code for your research, please cite our paper.
 ```
